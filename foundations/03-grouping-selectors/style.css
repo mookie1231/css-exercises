@@ -1,0 +1,15 @@
+.combination {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.cm {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.ncm {
+
+    background-color: yellow;
+}
